@@ -1,0 +1,68 @@
+#container {
+ width: 400px;
+ height: 600px;
+ background-color: black;
+ position: absolute;
+ margin: 50px 200px 50px 300px;
+ z-index: -1;
+ border-radius: 10px;
+ box-shadow: red 5px 2px 3px;
+}
+#container2 {
+ width: 270px;
+ height: 80px;
+ background-color: grey;
+ position: absolute;
+ margin: 130px 300px 20px 340px;
+ padding: 10px 10px 10px 40px;
+ border-radius: 5px
+ 
+}
+#demo{
+ color: rgb(68, 23, 23);
+ font-size: 40px;
+ padding: 0px 2px 2px 2px;
+ margin: -9px 1px 1px -20px;
+}
+#demo2{
+ color: rgb(68, 23, 23);
+ font-size: 40px;
+ padding: 0px 2px 2px 2px;
+ margin: -10px 1px 1px 120px;
+}
+#table {
+ margin:0px 100px 2px 25px; 
+ }
+#On {margin: 140px 300px 0px 310px;
+width: 50px;
+background-color: green;
+font-weight: bold;
+font-size: 15px;
+}
+#Off {margin: 0px 300px 1px 40px;
+
+width: 50px;
+ background-color: red;
+ font-weight: bold;
+ font-size: 15px;
+ }
+h3 {
+ font-size: 30px;
+ margin: 10px 5px 1px 70px; 
+ color: rgb(150, 39, 19);
+ font-size: 30px;
+ 
+ 
+}
+#hdesign{
+ font-size: 16px;
+ margin: 1px 5px 5px 40px; 
+ color:rgb(148, 130, 130);
+ text-decoration: italic;
+}
+button{
+ width: 50px;
+ font-weight: bold;
+ font-size: 15px;
+ }
+
